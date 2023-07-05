@@ -1,64 +1,52 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/mgitv.jpg" group-title="TV",MGI TV 
-https://tv.rodja.live/tasik/mgitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097823/tv%20sunnah/k9xczpaohmmclgy116xm.png" group-title="TV Sunnah",Makkah Live 
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/niagatv.jpg" group-title="TV",Niaga TV 
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097822/tv%20sunnah/jbwgtywquhgthi0p7rhl.png" group-title="TV Sunnah",Madinah Live 
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097828/tv%20sunnah/q5rxx5qtdhhvowbezahl.png" group-title="TV Sunnah",Niaga TV 
 https://h1.intechmedia.net/intech/ch10.m3u8
 
-#EXTINF:-1 tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/wesaltv.jpg" group-title="TV",Wesal TV 
-https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
-
-#EXTINF:-1 tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/rodjatv.jpg" group-title="TV",Rodja TV
-https://rodjatv.com/rodjatv/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/rodjatv.jpg" group-title="TV",Rodja TV 1
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097824/tv%20sunnah/ujbhji1ixwgeeevr4x3o.png" group-title="TV Sunnah",Rodja TV
 http://210.210.155.35/qwr9ew/s/s14/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/rodjatv.jpg" group-title="TV",Rodja TV 2
-http://103.130.186.138:8800/oxygenplay/rodjatv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/ashiiltv.jpg" group-title="TV",Ashiil TV 
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097834/tv%20sunnah/pejani5yoer06ys0e1hv.png" group-title="TV Sunnah",Ashiil TV 
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/salamtv.jpg" group-title="TV",Salam TV 
-https://h1.intechmedia.net/intech/ch12.m3u8
-
-#EXTINF:-1 tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/surautv.jpg" group-title="TV",Surau TV 
-https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
-
-#EXTINF:-1 tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/izzahtv.jpg" group-title="TV",Izzah TV
-https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097838/tv%20sunnah/hfecvrsmgjdfrf6u0htd.png" group-title="TV Sunnah",Surau TV 
+https://h1.intechmedia.net/intech/ch3.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097822/tv%20sunnah/ie5fgue70xezqehutst1.png" group-title="TV Sunnah",Insan TV
 https://h1.intechmedia.net/intech/ch1.m3u8
 
-#EXTINF:-1 tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/muadztv.jpg" group-title="TV",Muadz TV 
-https://h1.intechmedia.net/intech/ch5.m3u8
-
-#EXTINF:-1 tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/ahsantv.jpg" group-title="TV",Ahsan TV 
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097833/tv%20sunnah/ylye2nbxhkkm58ygcbgc.png" group-title="TV Sunnah",Ahsan TV 
 https://h1.intechmedia.net/intech/ch4.m3u8
 
-#EXTINF:-1 tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/saudiqurantv.jpg" group-title="TV",Saudi Quran
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097825/tv%20sunnah/m7q0th37bg7hnifps1k5.png" group-title="TV Sunnah",Muadz TV
+https://h1.intechmedia.net/intech/ch5.m3u8
 
-#EXTINF:-1 tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/saudisunnahtv.jpg" group-title="TV",Saudi Sunnah
-http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097834/tv%20sunnah/aanh8ls3pqjfgchfj3f9.png" group-title="TV Sunnah",Al Iman TV 
+https://tv.aliman.id/aliman/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/makkahtv.jpg" group-title="TV",Makkah TV 
-https://5ab29cc78f681.streamlock.net:443/makkahtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dsbsgt8mv/image/upload/v1685779558/9_o7w9c3.png" group-title="Live Youtube",Al Iman TV Youtube 
+https://youtu.be/r3-X_krvq0s
 
-#EXTINF:-1 tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/ayaattv.jpg" group-title="TV",Ayaat TV 
-http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097840/tv%20sunnah/sxdtlag7gx4lhvwhcbq8.png" group-title="TV Sunnah",Wesal TV 
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
-#EXTINF:-1 tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/ahlalqurantv.jpg" group-title="TV",Ahl Al Quran TV 
-https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097833/tv%20sunnah/wt8ygm47qzlcahkslzdj.png" group-title="TV Sunnah",Salam TV 
+https://h1.intechmedia.net/intech/ch12.m3u8
 
-#EXTINF:-1 tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/alkhaleejtv.jpg" group-title="TV",Al Khaleej TV
-http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097846/tv%20sunnah/bfjyedfa0u1jam2y48bg.png" group-title="TV Sunnah",MGI TV 
+https://h1.intechmedia.net/intech/ch25.m3u8
 
-#EXTINF:-1 tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/alaqshatv.jpg" group-title="TV",Al Aqsha TV 
-https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097837/tv%20sunnah/t6oy44y2lm7ikomjd9sw.png" group-title="TV Sunnah",Izzah TV
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097836/tv%20sunnah/tbgeahshxfbsus3zqlmf.png" group-title="TV Sunnah",Rasyaad TV
+https://h1.intechmedia.net/intech/ch6.m3u8
 
 #EXTINF:-1 tvg-id="Suara Al-Iman Surabaya" tvg-name="Suara Al-Iman Surabaya" tvg-logo="https://update-muslimbox.b-cdn.net/channel/logo/radiosuaraaliman.jpg" group-title="Radio",Suara Al-Iman Surabaya
 http://radioislamindonesia.com:8008/;
