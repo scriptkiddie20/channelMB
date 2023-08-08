@@ -16,7 +16,7 @@ http://210.210.155.35/qwr9ew/s/s14/02.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097838/tv%20sunnah/hfecvrsmgjdfrf6u0htd.png" group-title="TV Sunnah",Surau TV 
-https://h1.intechmedia.net/intech/ch3.m3u8
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097822/tv%20sunnah/ie5fgue70xezqehutst1.png" group-title="TV Sunnah",Insan TV
 https://h1.intechmedia.net/intech/ch1.m3u8
