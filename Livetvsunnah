@@ -30,8 +30,8 @@ https://h1.intechmedia.net/intech/ch5.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097834/tv%20sunnah/aanh8ls3pqjfgchfj3f9.png" group-title="TV Sunnah",Al Iman TV 
 https://tv.aliman.id/aliman/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dsbsgt8mv/image/upload/v1685779558/9_o7w9c3.png" group-title="Live Youtube",Al Iman TV Youtube 
-https://youtu.be/r3-X_krvq0s
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097834/tv%20sunnah/aanh8ls3pqjfgchfj3f9.png" group-title="TV Sunnah",Al Iman TV 
+http://tv.aliman.id:1935/aliman/HD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097840/tv%20sunnah/sxdtlag7gx4lhvwhcbq8.png" group-title="TV Sunnah",Wesal TV 
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
