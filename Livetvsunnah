@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097823/tv%20sunnah/k9xczpaohmmclgy116xm.png" group-title="TV Sunnah",Makkah Live 
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8s
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097822/tv%20sunnah/jbwgtywquhgthi0p7rhl.png" group-title="TV Sunnah",Madinah Live 
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
